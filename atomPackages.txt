@@ -1,0 +1,14 @@
+atom-beautify
+busy-signal
+intentions
+language-batch
+linter
+linter-ui-default
+prettier-atom
+atom-runner
+autoclose-html
+color-picker
+highlight-selected
+pigments
+todo-show
+refactor
