@@ -2,4 +2,4 @@
 
 #### ATOM
 
-Use apm install --packages-file <filename> to install multiple atom packages.
+Use apm install --packages-file _filename_ to install multiple atom packages.
